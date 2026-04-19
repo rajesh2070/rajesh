@@ -1,0 +1,5 @@
+# Python Dependencies
+
+flask==2.0.1
+requests==2.25.1
+numpy==1.19.2
